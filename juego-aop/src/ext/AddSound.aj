@@ -1,13 +1,4 @@
-/**
 
- * @author Miguel Mejia
- * @author Dany julca
- * @author kevin molina
- * @author bruno bedon 
- * 
- * 
- * 
- */
 package ext;
 import battleship.model.Ship;
 import java.io.*;
